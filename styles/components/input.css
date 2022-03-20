@@ -1,0 +1,17 @@
+.input-feild {
+  @apply 
+  rounded 
+  h-7 
+  bg-gary-50 
+  outline-none 
+  px-4 text-xs 
+  text-secondary-400 
+  placeholder-secondary-600 
+  border
+  border-transparent
+  transition-all
+
+
+  /* Focus */
+  focus:border-primary;
+}
